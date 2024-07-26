@@ -1,3 +1,14 @@
-# SQL-PowerBI-Project-Coffee-Shop-Analysis-
-# Business Request & User Stories
-The business request for this data analyst project was an executive sales report for sales managers. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.
+# Coffee Shop Sales Analysis ( SQL & Power BI Project)
+
+
+### Business Request & User Stories
+According to the business request, the following user stories were established to meet  goals and ensure that acceptance criteria were consistently met throughout the project.
+
+|As a (role)| I want (request/demand) | So that (user value) | Acceptance Criteria |
+|-----------|-------------------------|----------------------|---------------------|
+|content 1  jjjjjj jjjjjjjjjjjjj  hhhhhhhhh   hhhhhhhhhhhhhhhhh hhhhhhhhhhhhhhhhhhhhhhhhhh      |                 hddhdj  |  ghgj                |  hjhg               |
+
+
+
+
+
