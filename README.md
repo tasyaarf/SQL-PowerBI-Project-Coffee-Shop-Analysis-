@@ -1,6 +1,12 @@
 # Coffee Shop Sales Analysis ( SQL & Power BI Project)
 
-
+### Table Of Content
+- [Business Request & User Stories](#business-request-&-user-stories)
+- [Data Sources](#data-sources)
+- [Data Cleansing & Transformation](#data-cleansing-&-transformation)
+- [Data Analysis](#data-analysis)
+- [Data Model](#data-model)
+- [Coffee Sales Dashboard](#coffee-sales-dashboard)
 ### Business Request & User Stories
 According to the business request, the following user stories were established to meet  goals and ensure that acceptance criteria were consistently met throughout the project.
 
