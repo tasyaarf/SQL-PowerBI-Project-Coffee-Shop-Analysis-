@@ -2,10 +2,10 @@
 
 ### Table Of Content
 - [Business Request & User Stories](#business-request-&-user-stories)
-- [Data Sources](#data-sources)
-- [Data Cleansing & Transformation](#data-cleansing-&-transformation)
+- [Data Source](#data-source)
+- [Data Cleansing & Transformation (PostgreSQL)](#data-cleansing-&-transformation-(PostgreSQL))
 - [Data Analysis](#data-analysis)
-- [Data Model](#data-model)
+- [Data Model (Power BI)](#data-model-(Power-BI))
 - [Coffee Sales Dashboard](#coffee-sales-dashboard)
 ### Business Request & User Stories
 According to the business request, the following user stories were established to meet  goals and ensure that acceptance criteria were consistently met throughout the project.
