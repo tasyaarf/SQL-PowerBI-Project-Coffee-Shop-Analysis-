@@ -80,7 +80,7 @@ the date table are created in Power BI to implement the calendar heatmap and day
 ### Coffee Sales Dashboard
 
 The coffee sales dashboard contain the overview sales performance which can be track based on hours, day, hours and equipped with Tooltip.
-the dashbord can be downloaded on "coffee_sales_report" files 
+the dashbord can be downloaded on ["coffee_sales_report"](https://github.com/tasyaarf/SQL-PowerBI-Project-Coffee-Shop-Analysis-/blob/084dc6180bfadbd8a20ba100be5b6ae81cfaf704/coffee_sales_report.pbix) files 
 
 ![image](https://github.com/user-attachments/assets/921ea239-f27d-4afb-a05a-b524111fe813)
 
