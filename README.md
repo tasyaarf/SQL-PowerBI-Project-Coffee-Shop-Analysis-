@@ -68,7 +68,7 @@ alter table coffee_transaction
 alter column transaction_time type time;
 ```
 ### Data Analysis 
-To fulfill the business request and user needs the file of SQL script can be seen on "Coffee_Shop_Analysis_SQL_Script" files
+To fulfill the business request and user needs the file of SQL script can be seen on ["Coffee_Shop_Analysis_SQL_Script"](https://github.com/tasyaarf/SQL-PowerBI-Project-Coffee-Shop-Analysis-/blob/8c1061b5976be06e4e6eea79e04714ede5192233/Coffe_Shop_Analysis_SQL_Script.sql) files
 
 ### Data Model (Power BI)
 Here is a data model after importing the cleaned and prepared tables into Power BI
