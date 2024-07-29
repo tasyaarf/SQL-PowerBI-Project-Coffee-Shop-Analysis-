@@ -1,13 +1,13 @@
 # Coffee Shop Sales Analysis ( SQL & Power BI Project)
 
 ### Table Of Content
-- [Business Request & User Stories](#business-request-&-user-stories)
+- [Business Request](#business-request)
 - [Data Source](#data-source)
-- [Data Cleansing & Transformation (PostgreSQL)](#data-cleansing-&-transformation-(PostgreSQL))
+- [Data Cleansing and Transformation](#data-cleansing-and-transformation)
 - [Data Analysis](#data-analysis)
-- [Data Model (Power BI)](#data-model-(Power-BI))
+- [Data Model](#data-model)
 - [Coffee Sales Dashboard](#coffee-sales-dashboard)
-### Business Request & User Stories
+### Business Request
 According to the business request, the following user stories were established to meet  goals and ensure that acceptance criteria were consistently met throughout the project.
 
 |As a (role)| I want (request/demand) | So that (user value) | Acceptance Criteria |
@@ -23,7 +23,7 @@ According to the business request, the following user stories were established t
 ### Data Source
 The primary dataset used for this analysis is the "coffee_shop_sales.csv" file, containing detailed information about each sale made by the coffee shop.
 
-### Data Cleansing & Transformation (PostgreSQL)
+### Data Cleansing and Transformation 
 The process includes:
    1. Data loading and inspection regarding missing values, and the appropriate data type in each column 
    2. Develop clean data by eliminating redundant and unstructured data
@@ -76,7 +76,7 @@ alter column transaction_time type time;
 ### Data Analysis 
 To fulfill the business request and user needs the file of SQL script can be seen on ["Coffee_Shop_Analysis_SQL_Script"](https://github.com/tasyaarf/SQL-PowerBI-Project-Coffee-Shop-Analysis-/blob/8c1061b5976be06e4e6eea79e04714ede5192233/Coffe_Shop_Analysis_SQL_Script.sql) files
 
-### Data Model (Power BI)
+### Data Model 
 Here is a data model after importing the cleaned and prepared tables into Power BI
 ![image](https://github.com/user-attachments/assets/d5de4078-1515-4c94-bbdc-68baaf6e95be)
 
