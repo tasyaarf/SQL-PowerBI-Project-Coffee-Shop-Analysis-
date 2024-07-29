@@ -68,12 +68,26 @@ alter table coffee_transaction
 alter column transaction_time type time;
 ```
 ### Data Analysis 
-to fulfill the business request and user needs the file of SQL script can be seen [here](
+To fulfill the business request and user needs the file of SQL script can be seen on "Coffee_Shop_Analysis_SQL_Script" files
 
 ### Data Model (Power BI)
 Here is a data model after importing the cleaned and prepared tables into Power BI
 ![image](https://github.com/user-attachments/assets/d5de4078-1515-4c94-bbdc-68baaf6e95be)
 
 the date table are created in Power BI to implement the calendar heatmap and day/hours analysis
+
+
+### Coffee Sales Dashboard
+
+The coffee sales dashboard contain the overview sales performance which can be track based on hours, day, hours and equipped with Tooltip.
+the dashbord can be downloaded on "coffee_sales_report" files 
+
+![image](https://github.com/user-attachments/assets/921ea239-f27d-4afb-a05a-b524111fe813)
+
+## References
+- http://www.youtube.com/@datatutorials1
+- http://www.youtube.com/@iamaliahmad
+
+
 
 
